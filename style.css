@@ -229,7 +229,7 @@ span{
         content: "FullStack Developer";
     }
     21%,
-    400%{
+    40%{
         content: "Backend Developer";
     }
     41%,
@@ -792,14 +792,14 @@ border-bottom: 3px solid transparent;
             word-wrap: break-word;
         }
         .service-info h4{
-            font-size: 1.2rem;
+            font-size: 1.4rem;
             font-weight: 800;
             line-height: 2;
         }
         
         .service-info p{
-            font-size: 1.4rem;
-            font-weight: 800;
+            font-size: 1.2rem;
+            font-weight: 700;
             max-height: 100px;
             line-height: 1.7;
             margin:auto;
@@ -838,7 +838,7 @@ border-bottom: 3px solid transparent;
         }
         .service-box{
             background-color: var(--main-color);
-            height: 600px;
+            height: 520px;
             border-radius: 3rem;
             border: 5px solid transparent;
             cursor: pointer;
@@ -846,14 +846,14 @@ border-bottom: 3px solid transparent;
             word-wrap: break-word;
         }
         .service-info h4{
-            font-size: 1.2rem;
+            font-size: 1.9rem;
             font-weight: 800;
             line-height: 2;
         }
         
         .service-info p{
-            font-size: 1.25rem;
-            font-weight: 800;
+            font-size: 1.2rem;
+            font-weight: 600;
             max-height: 100px;
             line-height: 1.7;
             margin:auto;
